@@ -10,7 +10,7 @@ Professor Lei Xie
 ### Python 3
 
 ### Runtime Instructions
-1. From the Kluz_Dekel folder run python3 main.py
+1. From the main folder run python3 main.py
 2. If the database tables/graph have not been loaded do the following:
     a) Enter '1' to load all tables and graphs from scratch (it takes approximately 14 minutes to load the entire database)
 3. From here you can just follow the prompts on the screen to add/remove items from the databases and make queries
